@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.Collections;
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -12,27 +10,20 @@ import java.util.Collections;
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ArrayList<Integer> list = new ArrayList<>();
-        ListNode node = head;
 
-        // Store values in ArrayList
-        while (node != null) {
-            list.add(node.val);
-            node = node.next;
+        if(head == null) return head;
+
+        ListNode prev = null;
+        ListNode pres = head;
+        ListNode next = pres.next;
+
+        while (pres != null) {
+            next = pres.next;
+            pres.next = prev;
+            prev = pres;
+            pres = next;
         }
 
-        // Reverse the ArrayList
-        Collections.reverse(list);
-
-        // Create a new linked list from reversed values
-        ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
-
-        for (int val : list) {
-            current.next = new ListNode(val);
-            current = current.next;
-        }
-
-        return dummy.next;
+        return prev;
     }
 }
