@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -63,6 +64,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
