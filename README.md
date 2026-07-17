@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -135,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
