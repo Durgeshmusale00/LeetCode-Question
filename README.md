@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0206-reverse-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
 ## Hash Function
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0852-peak-index-in-a-mountain-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
