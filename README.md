@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
