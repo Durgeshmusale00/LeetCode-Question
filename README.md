@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0410-split-array-largest-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2769-find-the-maximum-achievable-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
 ## Backtracking
 |  |
