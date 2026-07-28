@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
 | [0845-longest-mountain-in-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
