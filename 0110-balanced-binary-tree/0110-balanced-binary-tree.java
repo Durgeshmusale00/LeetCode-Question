@@ -20,6 +20,7 @@ class Solution {
     }
 
     public boolean isBalanced(TreeNode root) {
+        if(root == null) return true;
      Answer ans = new Answer();
      helper(root, ans);
      return ans.result;
