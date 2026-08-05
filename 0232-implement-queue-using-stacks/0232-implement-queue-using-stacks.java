@@ -11,42 +11,23 @@ class MyQueue {
     }
     
     public void push(int x) {
-        frist.push(x);
+       while(!frist.isEmpty()){
+            second.push(frist.pop());
+        }
+        
+       frist.push(x);
+        
+         while(!second.isEmpty()){
+            frist.push(second.pop());
+        }
     }
     
     public int pop() {
-        //frist i make empty frist stack. 
-        // which element i push frist this element come top of the second stack.
-
-        while(!frist.isEmpty()){
-            second.push(frist.pop());
-        }
-
-        //frist entered elemnt come top of the second stack.
-        int removed = second.pop();
-
-        //then again i will make frist as it was.
-        while(!second.isEmpty()){
-            frist.push(second.pop());
-        }
-        
-        //here i return element
-        return removed;
+     return  frist.pop();
     }
     
     public int peek() {
-      // i same do as like the remove function worked. only i used peek() method.
-        while(!frist.isEmpty()){
-            second.push(frist.pop());
-        }
-
-        int peeked = second.peek();
-        
-        while(!second.isEmpty()){
-                frist.push(second.pop());
-            }
-
-        return peeked;
+        return frist.peek();
 
     }
     
