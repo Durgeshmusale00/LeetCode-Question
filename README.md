@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
