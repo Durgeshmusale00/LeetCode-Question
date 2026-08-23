@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0233-number-of-digit-one) |
 | [0377-combination-sum-iv](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0377-combination-sum-iv) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0377-combination-sum-iv](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0377-combination-sum-iv) |
