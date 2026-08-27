@@ -1,38 +1,25 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> ls = new ArrayList<>();
-        int n = nums.length;
+        List<List<Integer>> result = new ArrayList<>();
 
-        for(int i=0;i<n-2;i++){
-            if(i>0 && nums[i] == nums[i-1])continue;
-
-            for(int j=i+1;j<n-1;j++){
-                if (j > i + 1 && nums[j] == nums[j - 1]) continue;
-                int target = 0-(nums[i] + nums[j]);
-
-                if(find(nums,j+1,n-1,target)){
-                    ls.add(Arrays.asList(nums[i],nums[j],target));
+        for(int i=0; i<nums.length-2; i++) {
+            if(i>0) if(nums[i] == nums[i-1]) continue;
+            int j=i+1, k=nums.length-1;
+            while(j<k) {
+                if(nums[i] + nums[j] + nums[k] == 0) {
+                    result.add(Arrays.asList(nums[i], nums[j], nums[k]));
+                    j++; 
+                    while(j<k && nums[j] == nums[j-1]) j++;
+                    k--;
+                    while(j<k && nums[k] == nums[k+1]) k--;
+                    
                 }
-                
-
+                else if(nums[j] + nums[k] > 0-nums[i]) k--;
+                else j++;
             }
         }
-        return ls;
-        
-    }
-    public boolean find(int[] nums,int st,int ed,int target){
-        while(st<=ed){
-            int mid = st+(ed-st)/2;
 
-            if(nums[mid]==target)return true;
-            else if(nums[mid]>target)ed = mid-1;
-            else{
-                st = mid+1;
-            }
-
-        }
-        return false;
-
+        return result;
     }
 }
