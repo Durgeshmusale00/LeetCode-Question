@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
