@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0018-4sum) |
+| [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
 ## Monotonic Stack
 |  |
