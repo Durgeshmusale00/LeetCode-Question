@@ -1,50 +1,33 @@
 class MinStack {
-
-    private int[] data;
-    private int ptr;
+     private Stack<Integer> st;
+    private Stack<Integer> minStack;
 
     public MinStack() {
-        data = new int[10]; // Initial size
-        ptr = 0;
+        st = new Stack<>();
+        minStack = new Stack<>();
     }
-
+    
     public void push(int value) {
-    if (ptr == data.length) {
-    int[] newData = new int[data.length * 2];
+        st.push(value);
 
-    for (int i = 0; i < data.length; i++) {
-        newData[i] = data[i];
+        if(minStack.isEmpty() || (value <= minStack.peek())){
+            minStack.push(value);
+        }
     }
-
-    data = newData;
-    }
-        data[ptr++] = value;
-    }
-
+    
     public void pop() {
-        if (ptr > 0) {
-            ptr--;
+       if (st.peek().equals(minStack.peek())) {
+            minStack.pop();
         }
+        st.pop();
     }
-
+    
     public int top() {
-        return data[ptr - 1];
+       return st.peek();
     }
-
+    
     public int getMin() {
-        int min = Integer.MAX_VALUE;
-
-        for (int i = 0; i < ptr; i++) {
-            if (data[i] < min) {
-                min = data[i];
-            }
-        }
-
-        return min;
-    }
-
-    public boolean isFull(){
-        return ptr == data.length;
+       return minStack.peek();
     }
 }
 
