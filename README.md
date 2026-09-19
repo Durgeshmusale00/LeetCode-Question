@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1386-cinema-seat-allocation) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
