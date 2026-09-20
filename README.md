@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -236,10 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -366,4 +370,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
