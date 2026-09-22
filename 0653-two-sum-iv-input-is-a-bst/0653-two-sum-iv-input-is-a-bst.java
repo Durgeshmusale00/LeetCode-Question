@@ -18,18 +18,11 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
     HashMap<Integer, Integer> map = new HashMap<>();
     dfs(root, map, k);
-    // for(int i = 0;i<map.size();i++){
-    //     int num = map.containsKey(i);
-    //     int sum = k - num;
-    //     if (map.containsKey(sum)) {
-    //         return true;
-    //     }
-    // }
-    // return false;
     return flag;
     }
 
     public void dfs(TreeNode root, HashMap<Integer, Integer> map, int k){
+        if(flag)return;
         if(root == null) return;
 
         dfs(root.left, map, k);
