@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Linked List
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0845-longest-mountain-in-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -375,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Data Stream
