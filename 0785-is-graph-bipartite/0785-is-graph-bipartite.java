@@ -27,12 +27,6 @@ class Solution {
     }
 
     public void helper(int node, ArrayList<ArrayList<Integer>> adj, int[] vis){
-        // if(vis[node] != 0){
-        //     flag = false;
-        //     return;
-        // }
-        // vis[node] = 2;
-
         for(int cnd : adj.get(node)){
            if(vis[cnd] == 0){
             if(vis[node] == 1){
@@ -47,4 +41,15 @@ class Solution {
            }
         }
     }
+
+
+
+
+
+
+
+
+
+
+
 }
