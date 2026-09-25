@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0233-number-of-digit-one) |
+| [0319-bulb-switcher](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
