@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -410,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0319-bulb-switcher) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
