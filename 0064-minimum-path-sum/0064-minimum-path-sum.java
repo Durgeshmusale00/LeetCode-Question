@@ -1,34 +1,37 @@
 class Solution {
     public int minPathSum(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-        
-        int[][] memo = new int[m][n];
-        
-        return helper(grid, 0, 0, memo);
+    int n = grid.length;
+    int m = grid[0].length;
+
+    int[][] dp = new int[n+1][m+1];
+    for(int i = 0;i<=n;i++){
+        for(int j = 0;j<=m;j++){
+            dp[i][j] = -1;
+        }
     }
 
-    private int helper(int[][] grid, int i, int j, int[][] memo) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        if (i >= m || j >= n) {
-            return Integer.MAX_VALUE;
-        }
-
-        if (i == m - 1 && j == n - 1) {
-            return grid[i][j];
-        }
-
-        if (memo[i][j] != 0) {
-            return memo[i][j];
-        }
-
-        int right = helper(grid, i, j + 1, memo);
-        int down = helper(grid, i + 1, j, memo);
-
-        memo[i][j] = grid[i][j] + Math.min(right, down);
-
-        return memo[i][j];
+    int ans = helper(grid, m-1, n-1, dp);
+    return ans;
     }
+    public int helper(int[][] grid, int r, int c, int[][] dp){
+    int n = grid.length;
+    int m = grid[0].length;
+     
+    if(r == 0 && c == 0){
+    return grid[c][r];
+    }
+
+    if(r < 0 || c < 0){
+    return Integer.MAX_VALUE;
+    }
+
+    //b c 
+    if(dp[c][r] != -1) return dp[c][r];
+
+    int right = helper(grid, r-1, c, dp);
+    int down = helper(grid, r, c-1, dp);
+    int ans = Math.min(right, down) + grid[c][r];
+    return dp[c][r] = ans;
+    }
+
 }
