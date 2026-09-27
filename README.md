@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
