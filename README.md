@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0077-combinations) |
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0062-unique-paths) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
