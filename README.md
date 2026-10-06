@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0066-plus-one) |
