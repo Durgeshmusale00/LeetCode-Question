@@ -8,18 +8,15 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        
-        // Change slow != null to fast != null
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        
-        return slow;
+     ListNode fast = head;
+     ListNode slow = head;
+
+     while((fast != null && fast.next != null) && slow != null){
+        slow = slow.next;
+        fast = fast.next.next;
+     }   
+     return slow;
     }
 }
