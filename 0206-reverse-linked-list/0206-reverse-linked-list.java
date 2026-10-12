@@ -11,19 +11,27 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
 
-        if(head == null) return head;
+       if(head == null) return head;
 
         ListNode prev = null;
         ListNode pres = head;
-        ListNode next = pres.next;
+        ListNode next1 = pres.next;
 
-        while (pres != null) {
-            next = pres.next;
+        while(pres != null){
+           next1 = pres.next;
             pres.next = prev;
             prev = pres;
-            pres = next;
+            pres = next1;
         }
 
         return prev;
     }
+    // public TreeNode helper(ListNode root){
+    //     //base case 
+    //     if(root == null) return null;
+        
+
+
+    //     helper(root, )
+    // }
 }
