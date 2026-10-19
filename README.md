@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
