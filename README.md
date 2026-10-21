@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1035-uncrossed-lines) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
