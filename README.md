@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0845-longest-mountain-in-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
