@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1652-defuse-the-bomb](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1652-defuse-the-bomb) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2090-k-radius-subarray-averages) |
 | [2418-sort-the-people](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2418-sort-the-people) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
