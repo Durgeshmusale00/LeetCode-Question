@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0283-move-zeroes) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
