@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
