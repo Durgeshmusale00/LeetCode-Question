@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2418-sort-the-people) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1208-get-equal-substrings-within-budget) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1208-get-equal-substrings-within-budget) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Doubly-Linked List
 |  |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
