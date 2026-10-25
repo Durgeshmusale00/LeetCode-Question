@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1035-uncrossed-lines) |
+| [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1386-cinema-seat-allocation) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
