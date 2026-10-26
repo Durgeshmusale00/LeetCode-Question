@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
+| [0561-array-partition](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1386-cinema-seat-allocation) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
