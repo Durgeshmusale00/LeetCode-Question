@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0412-fizz-buzz) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
