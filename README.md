@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
