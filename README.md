@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0274-h-index) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
