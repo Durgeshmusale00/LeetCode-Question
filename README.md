@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0845-longest-mountain-in-array) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
