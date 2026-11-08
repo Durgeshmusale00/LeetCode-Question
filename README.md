@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1652-defuse-the-bomb) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Trie
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0739-daily-temperatures) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
