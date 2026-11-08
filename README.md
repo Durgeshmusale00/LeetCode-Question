@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1035-uncrossed-lines) |
 | [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -570,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search Tree
