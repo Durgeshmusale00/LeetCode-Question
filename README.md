@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2090-k-radius-subarray-averages) |
+| [2104-sum-of-subarray-ranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2104-sum-of-subarray-ranges) |
 | [2418-sort-the-people](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2104-sum-of-subarray-ranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0739-daily-temperatures) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2104-sum-of-subarray-ranges](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
