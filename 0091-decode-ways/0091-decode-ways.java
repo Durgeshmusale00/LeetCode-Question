@@ -1,37 +1,35 @@
 class Solution {
     public int numDecodings(String s) {
-    int n = s.length();
-    int[] dp = new int[n+1];
-    Arrays.fill(dp, -1);
-    return helper(s, 0, dp); 
+        int[] dp = new int[s.length()+1];
+        Arrays.fill(dp, -1);
+        return helper(s, 0, dp);
     }
 
- public int helper(String s, int i, int[] dp) {
-
-    // Base case
-    if (i == s.length()) {
-        return 1;
-    }
-
-    if (s.charAt(i) == '0') {
-        return 0;
-    }
-
-    int count = 0;
-    if(dp[i] != -1) return dp[i];
-
-    // Choose one digit
-    count += helper(s, i + 1, dp);
-
-    // Choose two digits
-    if (i + 1 < s.length()) {
-        int num = Integer.parseInt(s.substring(i, i + 2));
-
-        if (num >= 10 && num <= 26) {
-            count += helper(s, i + 2, dp);
+    public int helper(String s, int i, int[] dp) {
+        //base case 
+        if (i >= s.length()) {
+            return dp[i] = 1;
         }
-    }
 
-    return dp[i] = count;
-}
+        if(dp[i] != -1) return dp[i];
+
+        int first = 0;
+        int second = 0;
+
+        //call for the single digit. 
+        if (Character.getNumericValue(s.charAt(i)) >= 1 && Character.getNumericValue(s.charAt(i)) <= 9) {
+            first = helper(s, i + 1, dp);
+        }
+
+        //call for the 2 digit if they are less than 26 and the grether or queal to 2.
+        if (i + 2 <= s.length()) {
+            String str = s.substring(i, i + 2);
+            int num = Integer.parseInt(str);
+
+            if (num >= 10 && num <= 26) {
+                second = helper(s, i + 2, dp);
+            }
+        }
+        return dp[i] =  first + second;
+    }
 }
