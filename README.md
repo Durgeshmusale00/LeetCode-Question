@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0978-longest-turbulent-subarray) |
 | [1035-uncrossed-lines](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1035-uncrossed-lines) |
+| [1049-last-stone-weight-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1035-uncrossed-lines) |
+| [1049-last-stone-weight-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1310-xor-queries-of-a-subarray) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
