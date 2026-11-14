@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1208-get-equal-substrings-within-budget) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1310-xor-queries-of-a-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Database
 |  |
