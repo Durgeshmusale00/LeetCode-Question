@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1137-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
