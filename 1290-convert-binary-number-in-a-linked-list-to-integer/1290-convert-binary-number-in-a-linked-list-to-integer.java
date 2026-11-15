@@ -13,11 +13,11 @@ class Solution {
         if (head == null)
             return 0;
         ListNode temp = head;
-        String str = "";
+        int str = 0;
         while (temp != null) {
-            str += temp.val;
+            str = str * 2 + temp.val;
             temp = temp.next;
         }
-        return Integer.parseInt(str, 2);
+        return str;
     }
 }
