@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1929-concatenation-of-array) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1652-defuse-the-bomb) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1833-maximum-ice-cream-bars) |
+| [1929-concatenation-of-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2090-k-radius-subarray-averages) |
