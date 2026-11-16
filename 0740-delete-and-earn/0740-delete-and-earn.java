@@ -1,34 +1,41 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
-     int max = Integer.MIN_VALUE;
-     int n = nums.length;
-     for(int i = 0;i<nums.length;i++){
-        if(nums[i] > max){
-            max = nums[i];
-        }
-     }   
-
-     int[] dp = new int[max+1];
-     for(int i = 0;i<nums.length;i++){
-        dp[nums[i]] += nums[i];
-     }
-    int[] memo = new int[max+1];
-    Arrays.fill(memo,-1);
-    return helper(dp, max, memo);
+        Arrays.sort(nums);
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp, -1);
+        return helper(nums, 0, dp);
     }
 
-    public int helper(int[] dp, int i, int[] memo){
-      //base case 
-      if(i < 0){
-        return 0;
-      }
+    public int helper(int[] nums, int i, int[] dp) {
+        //base case
+        if (i >= nums.length) {
+            return 0;
+        }
 
-      if(memo[i] != -1) return memo[i];
+        if(dp[i] != -1) return dp[i];
 
-      int choose = dp[i] + helper(dp, i-2,memo);
+        int j = i;
+        int chose = 0;
+        while (j < nums.length && nums[i] == nums[j]) {
+            chose += nums[j++];
+        }
 
-      int notChoose = helper(dp, i-1, memo);
-     
-      return memo[i] = Math.max(choose, notChoose);  
+        while (j < nums.length && nums[i] + 1 == nums[j]) {
+            j++;
+        }
+
+       
+        int choose = chose + helper(nums, j, dp);
+
+        // Not choose
+        int k = i;
+
+        while (k < nums.length && nums[k] == nums[i]) {
+            k++;
+        }
+
+        int notChoose = helper(nums, k, dp);
+
+        return dp[i] = Math.max(notChoose, choose);
     }
 }
