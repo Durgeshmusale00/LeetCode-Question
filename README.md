@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2418-sort-the-people) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
