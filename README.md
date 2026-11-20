@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2418-sort-the-people) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3731-find-missing-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3731-find-missing-elements) |
 ## Merge Sort
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3364-minimum-positive-sum-subarray) |
