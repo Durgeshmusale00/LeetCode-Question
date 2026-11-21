@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1049-last-stone-weight-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
