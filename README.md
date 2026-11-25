@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/0705-design-hashset) |
+| [3934-smallest-unique-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/1208-get-equal-substrings-within-budget) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3934-smallest-unique-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3934-smallest-unique-subarray) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -746,4 +750,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Durgeshmusale00/LeetCode-Question/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
